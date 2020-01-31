@@ -1,2 +1,2 @@
 # dotnet-core
-Simple teste with .Net core 3.1
+Simple test with .Net core 3.1
